@@ -11,13 +11,13 @@ repository = "https://github.com/deinstapel/cursive-multiplex"
 version = "0.6.0"
 
 [dependencies]
-cursive_core = "0.3"
+cursive_core = "0.4"
 thiserror = "1"
 indextree = "4.3"
 log = "0.4"
 
 [dev-dependencies]
 crossbeam = "0.8"
-cursive = "0.17"
+cursive = "0.21"
 serde_json = "1"
 insta = "1.10.0"
